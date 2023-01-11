@@ -1,2 +1,2 @@
 # UN-Migrant-Stock-Data-Set
-Cleaned data set, conducted exploratory data analysis, and visualized my findings. 
+The 2015 United Nations Migrant Stock was presented in an excel file that was in a tabular form. By utilizing Tidy Data Principals, as outlined by Hadley Wickham, I cleaned and transformed the document into a machine readable data set. After conducting exploratory data analaysis, I focused my attention on migratory events that were triggered by government policies. These events stretched over decades that I visualized with a keen eye to Edward Tufte's infographic principals. 
